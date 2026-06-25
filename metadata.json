@@ -1,0 +1,6 @@
+{
+  "name": "LawyerGo Billing System",
+  "description": "Professional billing dashboard and PDF generator for managing clients, vehicle challans, legal fees, discounts, and comprehensive invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

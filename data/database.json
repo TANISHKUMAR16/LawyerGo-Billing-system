@@ -1,0 +1,122 @@
+[
+  {
+    "id": "LG-20260612-001",
+    "invoiceNumber": "LG-20260612-001",
+    "customerName": "TANISH KUMAR",
+    "mobileNumber": "9311074181",
+    "vehicleNumber": "DL8SDJ4886",
+    "offerPercentage": 50,
+    "legalFee": 200,
+    "showLegalFee": true,
+    "challans": [
+      {
+        "id": "c-1781275365007-3f0n3",
+        "challanNumber": "CH-10199",
+        "challanDate": "2026-06-12",
+        "violation": "Over Speeded (Camera)",
+        "amount": 2000
+      }
+    ],
+    "settlementAmount": 2000,
+    "discountedAmount": 1000,
+    "finalAmount": 1200,
+    "createdAt": "2026-06-12T14:42:54.840Z"
+  },
+  {
+    "id": "LG-20260612-002",
+    "invoiceNumber": "LG-20260612-002",
+    "customerName": "AWDSAWD",
+    "mobileNumber": "559526626",
+    "vehicleNumber": "AWDASDA",
+    "offerPercentage": 50,
+    "legalFee": 1500,
+    "showLegalFee": true,
+    "challans": [
+      {
+        "id": "c-initial-1",
+        "challanNumber": "MHP-1284920",
+        "challanDate": "2026-06-12",
+        "violation": "Over Speeded (Camera)",
+        "amount": 2000
+      },
+      {
+        "id": "c-1781275413867-i6x0e",
+        "challanNumber": "AWDAWDSADA",
+        "challanDate": "2026-06-12",
+        "violation": "No Helmet",
+        "amount": 500
+      },
+      {
+        "id": "c-1781275430627-6uy87",
+        "challanNumber": "DASDWADSAD",
+        "challanDate": "2026-06-12",
+        "violation": "Over Speeded (Camera)",
+        "amount": 2000
+      }
+    ],
+    "settlementAmount": 4500,
+    "discountedAmount": 2250,
+    "finalAmount": 3750,
+    "createdAt": "2026-06-12T14:43:59.097Z"
+  },
+  {
+    "id": "LG-20260612-003",
+    "invoiceNumber": "LG-20260612-003",
+    "customerName": "tasjsdasb  sdf",
+    "mobileNumber": "95411646165",
+    "vehicleNumber": "DASDLHBADAS",
+    "offerPercentage": 45,
+    "legalFee": 1500,
+    "showLegalFee": true,
+    "challans": [
+      {
+        "id": "c-1781275681406-5bfz1",
+        "challanNumber": "ASDJ  SDBFF",
+        "challanDate": "2026-06-12",
+        "violation": "Over Speeded (Camera)",
+        "amount": 2000
+      },
+      {
+        "id": "c-1781275690894-3rtp8",
+        "challanNumber": "DSAWDSAWD",
+        "challanDate": "2026-06-12",
+        "violation": "Drunken Driving Penalty",
+        "amount": 10000
+      }
+    ],
+    "settlementAmount": 12000,
+    "discountedAmount": 6600.000000000001,
+    "finalAmount": 8100.000000000001,
+    "createdAt": "2026-06-12T14:48:15.162Z"
+  },
+  {
+    "id": "LG-20260613-001",
+    "invoiceNumber": "LG-20260613-001",
+    "customerName": "TANISH KUMAR",
+    "mobileNumber": "9311074181",
+    "vehicleNumber": "DL8SDJ4886",
+    "offerPercentage": 50,
+    "legalFee": 200,
+    "showLegalFee": true,
+    "challans": [
+      {
+        "id": "c-1781292939551-48ywl",
+        "challanNumber": "SANFFIANFAJF",
+        "challanDate": "2026-06-12",
+        "violation": "Over Speeded (Camera)",
+        "amount": 2000
+      },
+      {
+        "id": "c-1781292970043-j237r",
+        "challanNumber": "SEHSETHDHRTH",
+        "challanDate": "2026-06-12",
+        "violation": "No Seat Belt",
+        "amount": 1000
+      }
+    ],
+    "settlementAmount": 3000,
+    "discountedAmount": 1500,
+    "finalAmount": 1700,
+    "createdAt": "2026-06-12T19:36:21.855Z"
+  }
+]
